@@ -58,12 +58,7 @@ app.listen(port, hostname, () => {
   console.log(`\n App listening at http://${hostname}:${port}/`)
   console.log(`\n Try going to different URIs:\n`)
   console.log(`   Try /hello`)
-  console.log(`   Try /big`)
-  console.log(`   Try /json`)
-  console.log(`   Try /fortune`)
   console.log(`   Try /greeting/yourname`)
-  console.log(`   Try /yo/Dr.Rogers`)
-  console.log(`   Try /fancy/?first=Denise&last=Case`)
   console.log('\n Hit CTRL-C CTRL-C to stop\n')
 })
 
