@@ -24,7 +24,7 @@ app.get('/', function (req, res) {
     '/Welcome <br>'+
     '/greeting/Chinmayi <br>' +
 
-    '<a href=https://github.com/Chinmayi98/node-express-appp"> Welcome to my repo</a>'+
+    '<a href="https://github.com/Chinmayi98/node-express-app"> Welcome to my repo</a>'+
     '<br> <br>' +
     'Fork the source code from <a href="https://github.com/denisecase/node-express-app">https://github.com/denisecase/node-express-app</a>'
   )
