@@ -11,7 +11,7 @@
   ],
   "dependencies": {
     "config": "latest",
-    "express": "latest",
+    "express": "4.21.1",
     "helmet": "latest"
   },
   "devDependencies": {
